@@ -5,7 +5,7 @@ import puzzles.strings.StringsConfig;
 import java.util.*;
 
 /**
- * performs breadth first search and solves the shit
+ * performs breadth first search and solves the game
  *
  * @author Cole Marino
  * @author cvm4043

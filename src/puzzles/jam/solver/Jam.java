@@ -10,6 +10,13 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.util.*;
 
+/*
+ * The home for the Jam game - essentially a main director
+ * 
+ * @author: Cole Marino
+ * 
+ */
+
 public class Jam {
 
     protected String[][] board;

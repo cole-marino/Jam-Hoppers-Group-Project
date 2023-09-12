@@ -7,7 +7,7 @@ import java.io.*;
 import java.util.*;
 
 /**
- * basically the configuration for ALLLLLLL jam gamingSS??
+ * basically the configuration for the entire jam game
  *
  * @author Cole Marino
  * @author cvm4043

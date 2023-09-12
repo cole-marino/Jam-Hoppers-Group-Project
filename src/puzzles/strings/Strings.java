@@ -1,3 +1,9 @@
+/*
+ * Main runner for the program
+ * 
+ * @author: Cole Marino
+ */
+
 package puzzles.strings;
 
 import puzzles.common.solver.Configuration;

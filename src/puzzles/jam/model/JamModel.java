@@ -13,7 +13,7 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * the model representing a GAMINHG GAMEEE
+ * the model representing a new jam game
  *
  * @author Cole Marino
  * @author cvm4043
